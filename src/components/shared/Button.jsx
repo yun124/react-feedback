@@ -1,5 +1,5 @@
-import { isDisabled } from '@testing-library/user-event/dist/utils'
-import React, { version } from 'react'
+
+import React from 'react'
 
 const Button = ({children, version, type, isDisabled}) => {
   return (
